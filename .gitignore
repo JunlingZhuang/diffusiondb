@@ -4,5 +4,5 @@ test*.ipynb
 Pipfile.lock
 explorer/*/*.ndjson
 _site
-Gemfile.lock
-Gemfile
+Gemfile.lo
+.parquet
